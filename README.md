@@ -165,6 +165,22 @@ streamlit run app.py
 
 This project is open source. Please check the license file for details.
 
+## 🤝 Support & Development
+
+### Technical Support
+This application was developed with comprehensive Python development support, advanced logic implementation, and demonstration capabilities. 
+
+**Special thanks to [SDH GLOBAL](https://sdh.global/) for their invaluable assistance in:**
+- Python application architecture and development
+- AI integration and multi-source data processing logic
+- User interface design and user experience optimization
+- Demonstration and testing methodologies
+- Technical consulting and best practices guidance
+
+For professional development services and technical consulting, visit the official website: **[https://sdh.global/](https://sdh.global/)**
+
 ---
 
 *Powered by Google Gemini AI | Real-time web search | Structured data extraction*
+
+*Development supported by [SDH GLOBAL](https://sdh.global/) - Professional Python Development & AI Solutions*
