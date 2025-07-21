@@ -90,6 +90,11 @@ Samsung Galaxy S24
 MacBook Pro M3
 ```
 
+## 📸 Demo Screenshot
+
+![Application Demo](docs/screenshots/Screen2.jpg)
+*AI Product Spec Finder in action - showing product search results with detailed specifications and multi-source data integration*
+
 ## 🏗️ Technical Architecture
 
 ### Core Components
